@@ -1,17 +1,22 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
+  <h1>Interview Vue3 Junior</h1>
+  <h2 class="mt-3">Task 1: Counter</h2>
+  <Counter />
+  <h2 class="mt-4" >Task 2: People API</h2>
+  <People />
+  <h2 class="mt-4" >Task 3: Todo List With Props</h2>
+  <Todo />
 </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import HelloWorld from './components/HelloWorld.vue';
+import Counter from './components/Counter.vue'
+import People from './components/People.vue'
+import Todo from './components/Todo.vue'
 
 export default defineComponent({
   name: 'App',
-  components: {
-    HelloWorld
-  }
+  components: {Counter, People, Todo}
 });
 </script>
 
