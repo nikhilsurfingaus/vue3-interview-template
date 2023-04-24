@@ -6,7 +6,7 @@
 
 
 # Tasks
-
+- Bootstrap: Install Bootstrap
 - Task 1: Counter
 - Task 2: Person/Users API
 - Task 3: Todo List
