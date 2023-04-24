@@ -13,6 +13,8 @@ This is a Vue 3 project template that can be used as a starting point for buildi
 
 ## Screenshots
 
+<img src="https://github.com/nikhilsurfingaus/vue3-interview-template/blob/master/src/assets/demo1.jpg" alt="drawing" width="50%" height="50%" /> 
+<img src="https://github.com/nikhilsurfingaus/vue3-interview-template/blob/master/src/assets/demo2.jpg" alt="drawing" width="50%" height="50%" />
 
 
 ##  Installation
